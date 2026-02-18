@@ -1,34 +1,29 @@
 
 # output
 (1) 
-
 enter value in fahrenheit so it converts to
 celsius: 100
 100.0 F = 37.77777777777778 C
 ----------
 (2) 
-
 Enter length of rectangle: 4
 Enter width of rectangle: 2
 Area = 8
 Perimeter = 12
 ----------
 (3) 
-
 Enter first angle: 45
 Enter second angle: 45
 Third angle = 90.0
 Triangle is Right-angled
 ------------
 (4) 
-
 Enter number of days: 900
 Years = 2
 Months = 5
 Weeks = 2
 ---------
 (5) 
-
 Enter marks of subject 1: 97
 Enter marks of subject 2: 98
 Enter marks of subject 3: 96
@@ -39,12 +34,13 @@ Average Marks = 96.8
 Percentage = 96.8 %
 ----------
 (6) 
-
 Enter radius of the circle: 6
 Area = 113.09733552923255
 Circumference = 37.69911184307752
 ----------
 (7) 
+Enter your name: nageshwari kotyada
+Your name is: nageshwari kotyada
 
 
 
