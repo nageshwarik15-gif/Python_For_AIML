@@ -1,8 +1,14 @@
 
 # output
+(1) 
 
 enter value in fahrenheit so it converts to
-
 celsius: 100
-
 100.0 F = 37.77777777777778 C
+----------
+(2) 
+
+Enter length of rectangle: 4
+Enter width of rectangle: 2
+Area = 8
+Perimeter = 12
