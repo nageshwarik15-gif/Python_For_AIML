@@ -86,3 +86,13 @@ print("Circumference =", circumference)
 
 name = input("Enter your name: ")
 print("Your name is:", name)
+------------
+(8)
+
+for i in range(1, 5):     
+    for j in range(i):    
+        print("*", end=" ")
+    print()        
+-------------
+(9) 
+
