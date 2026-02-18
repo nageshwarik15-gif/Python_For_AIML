@@ -22,4 +22,22 @@ Triangle is Right-angled
 ------------
 (4) 
 
+Enter number of days: 900
+Years = 2
+Months = 5
+Weeks = 2
+---------
+(5) 
+
+Enter marks of subject 1: 97
+Enter marks of subject 2: 98
+Enter marks of subject 3: 96
+Enter marks of subject 4: 95
+Enter marks of subject 5: 98
+Total Marks = 484.0
+Average Marks = 96.8
+Percentage = 96.8 %
+----------
+(6) 
+
 
