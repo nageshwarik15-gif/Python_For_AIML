@@ -16,3 +16,19 @@ area = length * width
 perimeter = 2 * (length + width)
 print("Area =", area)
 print("Perimeter =", perimeter)
+
+---------
+(3) 
+
+
+angle1 = float(input("Enter first angle: "))
+angle2 = float(input("Enter second angle: "))
+angle3 = 180 - (angle1 + angle2)
+
+print("Third angle =", angle3)
+if angle1 == 90 or angle2 == 90 or angle3 == 90:
+    print("Triangle is Right-angled")
+elif angle1 == angle2 or angle2 == angle3 or angle1 == angle3:
+    print("Triangle is Isosceles")
+else:
+    print("Triangle is neither Right-angled nor Isosceles")
