@@ -20,7 +20,6 @@ print("Perimeter =", perimeter)
 ---------
 (3) 
 
-
 angle1 = float(input("Enter first angle: "))
 angle2 = float(input("Enter second angle: "))
 angle3 = 180 - (angle1 + angle2)
@@ -32,3 +31,23 @@ elif angle1 == angle2 or angle2 == angle3 or angle1 == angle3:
     print("Triangle is Isosceles")
 else:
     print("Triangle is neither Right-angled nor Isosceles")
+
+----------
+(4) 
+
+days = int(input("Enter number of days: "))
+years = days // 365
+remaining_days = days % 365
+
+months = remaining_days // 30
+remaining_days = remaining_days % 30
+
+weeks = remaining_days // 7
+
+print("Years =", years)
+print("Months =", months)
+print("Weeks =", weeks)
+
+-----------
+(5) 
+
