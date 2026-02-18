@@ -67,4 +67,20 @@ percentage = (total / 500) * 100
 print("Total Marks =", total)
 print("Average Marks =", average)
 print("Percentage =", percentage, "%")
+-----------
+(6) 
+
+import math
+
+radius = float(input("Enter radius of the circle: "))
+
+area = math.pi * radius * radius
+
+# circumference (perimeter)
+circumference = 2 * math.pi * radius
+
+print("Area =", area)
+print("Circumference =", circumference)
+------------
+(7) 
 
