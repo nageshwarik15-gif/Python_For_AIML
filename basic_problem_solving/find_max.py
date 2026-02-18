@@ -84,3 +84,5 @@ print("Circumference =", circumference)
 ------------
 (7) 
 
+name = input("Enter your name: ")
+print("Your name is:", name)
