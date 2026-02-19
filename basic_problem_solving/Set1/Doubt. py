@@ -1,0 +1,6 @@
+B=[[1, 2,3],[2,3,4],[3,4,5]]
+for i in range(len(B)):
+    for j in range (len(B[0])):
+        print (B[j])
+    print (B)
+ 
